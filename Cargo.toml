@@ -1,0 +1,6 @@
+[package]
+name = "first-crate"
+version = "0.1.0"
+authors = ["Releev <r3le@ya.ru>"]
+
+[dependencies]
