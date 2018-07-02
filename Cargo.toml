@@ -1,5 +1,5 @@
 [package]
-name = "first-crate"
+name = "first_crate"
 version = "0.1.0"
 authors = ["Releev <r3le@ya.ru>"]
 
